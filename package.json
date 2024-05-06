@@ -42,8 +42,9 @@
 		"url": "https://github.com/victrme/geopattern"
 	},
 	"devDependencies": {
-		"esbuild": "^0.19.2",
-		"mocha": "^10.2.0",
-		"svg-parser": "^2.0.4"
+		"esbuild": "^0.20.2",
+		"mocha": "^10.4.0",
+		"svg-parser": "^2.0.4",
+		"typescript": "^5.4.5"
 	}
 }
